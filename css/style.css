@@ -1,0 +1,28 @@
+ body {
+    color: #222222;
+    font-size: 1em;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+p {
+    margin: 2px;
+}
+
+.bazz {
+    color:red;
+}
+
+.choice {
+    color: DodgerBlue;
+}
+    
+.fizz {
+    color: Fuchsia;
+}
+
+.buzz {
+    color: DarkViolet;
+}
+
+.fizzbuzz {
+    color: GoldenRod;
+}
